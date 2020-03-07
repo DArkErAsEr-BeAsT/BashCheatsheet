@@ -10,3 +10,5 @@
 `source .bashrc`
 - find java installation path
 `update-java-alternatives -l`
+- setup dual monitors i3 
+`xrandr --output HDMI-1 --auto --above eDP-1`
