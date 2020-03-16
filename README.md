@@ -12,3 +12,5 @@
 `update-java-alternatives -l`
 - setup dual monitors i3 
 `xrandr --output HDMI-1 --auto --above eDP-1`
+- Change Background from terminal :
+`feh --bg-fill /path/to/image`
