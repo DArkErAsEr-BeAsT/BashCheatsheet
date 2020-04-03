@@ -14,3 +14,5 @@
 `xrandr --output HDMI-1 --auto --above eDP-1`
 - Change Background from terminal :
 `feh --bg-fill /path/to/image`
+- watching changes on a command / file
+`watch [command]`
