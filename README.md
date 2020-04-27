@@ -16,3 +16,6 @@
 `feh --bg-fill /path/to/image`
 - watching changes on a command / file
 `watch [command]`
+- When changing vars in .Xresources, need to reload these changes  using : 
+`xrdb merge ~/.Xresources`
+
